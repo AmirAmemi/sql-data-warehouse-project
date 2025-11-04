@@ -28,4 +28,4 @@ Let's stay in touch! Feel free to connect with me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amemi-amir)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amemi.de/)
-[![Email](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=email&logoColor=white)](amir@amemi.de)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=email&logoColor=white)](amir@amemi.de)
